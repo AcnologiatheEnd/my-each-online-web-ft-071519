@@ -6,10 +6,10 @@ if block_given?
   i+=1
 end
 else
-  print "nothing here"
+  puts "nothing here"
 end
 end
 #my_each(array) do |element|
-#  element
+#  puts element
 #end
 
