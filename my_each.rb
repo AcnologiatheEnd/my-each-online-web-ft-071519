@@ -8,6 +8,7 @@ end
 else
   print "nothing here"
 end
+array
 end
 #my_each(array) do |element|
 #   element
