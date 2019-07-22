@@ -10,6 +10,6 @@ else
 end
 end
 #my_each(array) do |element|
-#  puts element
+#  element
 #end
 
