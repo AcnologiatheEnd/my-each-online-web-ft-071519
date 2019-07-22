@@ -9,7 +9,7 @@ else
   puts "nothing here"
 end
 end
-my_each(array) do |element|
-  puts element
-end
+#my_each(array) do |element|
+#  puts element
+#end
 
